@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+
+.gras {
+	width: 4%;
+}
+
+textarea {
+	border:2px solid black !important;
+}
+
+.wysiwyg{
+	text-align: center;
+}
+
+.editor{
+	margin: 0 auto;
+	width: 1600px;
+	height: 600px;
+	border: 1px solid black;
+}
