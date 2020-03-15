@@ -4,7 +4,7 @@ A Simple WYSIWYG jquery plugin
 A group (2 pers.) rush to create a jquery plugin WYSIWYG (2days)  
 
 ___   
-![alt text](https://github.com/Crinav/My_WYSIWYG/blob/master/My_WYSIWYG.png "main page")  
+![alt text](https://github.com/Crinav/My_WYSIWYG/blob/master/My%20WYSIWYG.png "main page")  
 ___  
 
 ## Languages
